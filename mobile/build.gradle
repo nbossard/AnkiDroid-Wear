@@ -76,7 +76,8 @@ dependencies {
     compile 'com.android.support:support-v4:25.3.1'
     compile 'com.jakewharton.timber:timber:2.5.1'
     // API which can be used to add and query notes,cards,decks, and models to AnkiDroid
+    // See https://github.com/ankidroid/Anki-Android/wiki/AnkiDroid-API
     // Available on Jcenter
-    compile 'com.ichi2.anki:api:1.0.0alpha2'
+    compile 'com.ichi2.anki:api:1.1.0alpha5'
     compile 'com.android.support:multidex:1.0.1'
 }
